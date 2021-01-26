@@ -1,0 +1,143 @@
+{
+    "swords": [
+        {
+            "active": "",
+            "baseDamage": {
+                "slashing": "1d6"
+            },
+            "critRange": 18,
+            "critAmount": 2,
+            "enhanceBonus": 1,
+            "enchantments": {
+                "Souldrinking": true,
+                "Spellblade": true
+            },
+            "crystal": {
+                "Witchlight": "Sunlight"
+            },
+            "turn": null
+        },
+        {
+            "active": "",
+            "baseDamage": {
+                "slashing": "1d6"
+            },
+            "critRange": 18,
+            "critAmount": 2,
+            "enhanceBonus": 1,
+            "enchantments": {
+                "Souldrinking": true,
+                "Spellblade": true
+            },
+            "crystal": {
+                "Witchlight": "Sunlight"
+            },
+            "turn": null
+        },
+        {
+            "active": "",
+            "baseDamage": {
+                "slashing": "1d6"
+            },
+            "critRange": 18,
+            "critAmount": 2,
+            "enhanceBonus": 1,
+            "enchantments": {
+                "Everdancing": true,
+                "Spellblade": true
+            },
+            "crystal": {
+                "Witchlight": "Sunlight"
+            },
+            "turn": null
+        },
+        {
+            "active": "",
+            "baseDamage": {
+                "slashing": "1d6"
+            },
+            "critRange": 18,
+            "critAmount": 2,
+            "enhanceBonus": 1,
+            "enchantments": {
+                "Everdancing": true,
+                "Spellblade": true
+            },
+            "crystal": {
+                "Witchlight": "Sunlight"
+            },
+            "turn": null
+        },
+        {
+            "active": "",
+            "baseDamage": {
+                "slashing": "1d6"
+            },
+            "critRange": 18,
+            "critAmount": 2,
+            "enhanceBonus": 1,
+            "enchantments": {
+                "Everdancing": true,
+                "Spellblade": true
+            },
+            "crystal": {
+                "Witchlight": "Sunlight"
+            },
+            "turn": null
+        },
+        {
+            "active": "",
+            "baseDamage": {
+                "slashing": "1d6"
+            },
+            "critRange": 18,
+            "critAmount": 2,
+            "enhanceBonus": 1,
+            "enchantments": {
+                "Everdancing": true,
+                "Spellblade": true
+            },
+            "crystal": {
+                "Witchlight": "Sunlight"
+            },
+            "turn": null
+        },
+        {
+            "active": "",
+            "baseDamage": {
+                "slashing": "1d6"
+            },
+            "critRange": 18,
+            "critAmount": 2,
+            "enhanceBonus": 1,
+            "enchantments": {
+                "Everdancing": true,
+                "Spellblade": true
+            },
+            "crystal": {
+                "Witchlight": "Sunlight"
+            },
+            "turn": null
+        },
+        {
+            "active": "",
+            "baseDamage": {
+                "slashing": "1d6"
+            },
+            "critRange": 18,
+            "critAmount": 2,
+            "enhanceBonus": 1,
+            "enchantments": {
+                "Spellblade": true,
+                "Spellstrike": true,
+                "Sizing": true,
+                "Initiative": true,
+                "Agility": true
+            },
+            "crystal": {
+                "Witchlight": "Sunlight"
+            },
+            "turn": null
+        }
+    ]
+}
